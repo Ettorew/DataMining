@@ -1,0 +1,19 @@
+An Open-Source Dataset on Dietary Behaviors
+and DASH Eating Plan Optimization Constraints
+
+Resumo do Artigo: "An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints"
+Este artigo, publicado em outubro de 2020, apresenta um dataset de código aberto focado em comportamentos dietéticos e otimização do plano alimentar DASH (Dietary Approaches to Stop Hypertension).
+Objetivo Principal
+O estudo aborda o problema de recomendações dietéticas para pacientes com pré-diabetes e hipertensão, visando controlar a pressão arterial e a progressão da doença An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints – JHU CSSE. O objetivo é recomendar dietas que sejam tanto nutritivas quanto palatáveis aos gostos individuais, encorajando a adesão a longo prazo.
+Metodologia
+Os pesquisadores aplicaram técnicas de otimização linear com restrições, focando na inferência de parâmetros desconhecidos dentro de modelos de otimização baseados em observações existentes [2010.07531] An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints. O trabalho utiliza a metodologia de Aprendizado Inverso (Inverse Learning) para fornecer soluções potencialmente ótimas.
+Dataset
+O dataset é baseado em:
+
+Dados dietéticos do National Health and Nutrition Examination Survey (NHANES) 2015-2016 An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints – JHU CSSE
+Amostras adicionais de pacientes com hipertensão e pré-diabetes GitHub - CSSEHealthcare/Dietary-Behavior-Dataset: This repository includes dietary data from the NHANES 2015-2016 survey in a workable format for researchers. Additional Samples from hypertension and prediabetic patients are also provided.
+Mais de 5.000 grupos de alimentos organizados em 49 tipos alimentares amplos para facilitar a interpretação An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints – JHU CSSE
+Códigos de alimentos do Departamento de Agricultura dos Estados Unidos (USDA)
+
+Contribuições
+O trabalho reconhece que a adesão a longo prazo é um dos principais desafios em dietas, já que dietas saudáveis frequentemente diferem dos hábitos diários dos indivíduos An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints – JHU CSSE. A pesquisa oferece uma abordagem para equilibrar a riqueza nutricional com a palatabilidade individual, considerando que estes podem ser objetivos concorrentes.

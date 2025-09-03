@@ -1,0 +1,55 @@
+Hypertension, lifestyle, and nutritional
+status of participants in the Study
+of Cardiovascular Risks in
+Adolescents in the Federal District
+
+Resumo do Artigo: "Hypertension, lifestyle, and nutritional status of participants in the Study of Cardiovascular Risks in Adolescents in the Federal District"
+Este estudo, publicado em dezembro de 2021, investigou a prevalência de hipertensão arterial em adolescentes do Distrito Federal, Brasil, e analisou os fatores relacionados ao estilo de vida e estado nutricional no contexto do Estudo de Riscos Cardiovasculares em Adolescentes (ERICA).
+Objetivo
+Estimar a prevalência de hipertensão em participantes do Estudo de Riscos Cardiovasculares em Adolescentes no Distrito Federal, Brasil, e investigar os fatores relacionados ao estilo de vida e estado nutricional Predicting high blood pressure using machine learning models in low- and middle-income countries | BMC Medical Informatics and Decision Making | Full Text.
+Metodologia
+Desenho do Estudo:
+Variáveis de estilo de vida, econômicas e demográficas foram obtidas usando um questionário auto-administrado. Dados antropométricos e medições de pressão arterial foram coletados de acordo com um protocolo padronizado Predicting high blood pressure using machine learning models in low- and middle-income countries | BMC Medical Informatics and Decision Making | Full Text
+Análise Estatística:
+Estatística descritiva foi usada para conhecer a distribuição dos parâmetros investigados em relação ao desfecho. A associação entre hipertensão e as variáveis de interesse foi investigada por análise multivariada hierárquica usando regressão de Poisson, considerando p<0,05 Predicting high blood pressure using machine learning models in low- and middle-income countries | BMC Medical Informatics and Decision Making | Full Text
+Resultados Principais
+População e Prevalência:
+Avaliamos 2.646 adolescentes com idade média de 14,9 anos. A prevalência de hipertensão foi 8,0% (IC95% 6,8-9,3) Predicting high blood pressure using machine learning models in low- and middle-income countries | BMC Medical Informatics and Decision Making | Full Text
+Fatores de Risco Identificados
+Localização da Escola:
+Estudar em escolas na região rural (RP=2,1; IC95% 1,4-3,3) Predicting high blood pressure using machine learning models in low- and middle-income countries | BMC Medical Informatics and Decision Making | Full Text foi associado a maior prevalência de hipertensão.
+Estado Nutricional:
+Ter obesidade (RP=4,0; IC95% 2,5-6,3) Predicting high blood pressure using machine learning models in low- and middle-income countries | BMC Medical Informatics and Decision Making | Full Text mostrou a mais forte associação com hipertensão arterial.
+Características Demográficas:
+
+Sexo masculino (RP=2,2; IC95% 1,6-3,0) Predicting high blood pressure using machine learning models in low- and middle-income countries | BMC Medical Informatics and Decision Making | Full Text
+Idade acima de 15 anos (RP=1,4; IC95% 1,0-1,9) Predicting high blood pressure using machine learning models in low- and middle-income countries | BMC Medical Informatics and Decision Making | Full Text
+
+Fator Protetor
+Alimentação Escolar:
+O consumo da alimentação escolar foi um fator protetor (RP=0,7; IC95% 0,6-0,9) Predicting high blood pressure using machine learning models in low- and middle-income countries | BMC Medical Informatics and Decision Making | Full Text
+Contexto do Estudo ERICA
+O estudo faz parte do ERICA (Estudo de Riscos Cardiovasculares em Adolescentes), uma pesquisa nacional brasileira. Conforme dados complementares dos resultados da busca:
+Um total de 73.399 adolescentes foram avaliados. A prevalência de hipertensão foi 9,6 (IC 95% 9,0, 10,3)% e a de obesidade foi 8,4 (IC 95% 7,9, 8,9)% An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints - ADS no estudo nacional mais amplo.
+Ambiente Alimentar Escolar
+Estudos relacionados ao ERICA também investigaram o ambiente alimentar escolar:
+Alta frequência de vendas de alimentos ultraprocessados nas escolas foi identificada. Características contextuais e individuais no ambiente alimentar escolar foram associadas com hipertensão e obesidade, apontando para a necessidade de regulação e supervisão desses espaços Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries
+Conclusões
+A prevalência de hipertensão arterial foi 8% e esteve associada ao sexo masculino, idade de pelo menos 15 anos, frequência em escolas rurais e obesidade. O consumo da alimentação escolar foi um fator protetor Predicting high blood pressure using machine learning models in low- and middle-income countries | BMC Medical Informatics and Decision Making | Full Text
+Significado Clínico e de Saúde Pública
+Este estudo contribui para o entendimento da hipertensão em adolescentes brasileiros, destacando:
+
+Obesidade como principal fator de risco - com razão de prevalência 4 vezes maior
+Importância das diferenças regionais - maior prevalência em escolas rurais
+Papel protetor da alimentação escolar - sugerindo que programas de alimentação escolar bem estruturados podem contribuir para a prevenção da hipertensão
+Necessidade de atenção especial para adolescentes do sexo masculino e mais velhos
+
+Implicações para Políticas Públicas
+Os achados reforçam a importância:
+
+Do combate à obesidade infantojuvenil
+Da manutenção e fortalecimento dos programas de alimentação escolar
+De estratégias diferenciadas para regiões rurais
+Da vigilância contínua dos fatores de risco cardiovascular em adolescentes
+
+Este estudo fornece evidências importantes para o desenvolvimento de estratégias de prevenção primária da hipertensão em adolescentes brasileiros, especialmente no contexto do Distrito Federal.

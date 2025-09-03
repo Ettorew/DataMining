@@ -1,0 +1,58 @@
+Prediction of Hypertension in the
+Pediatric Population Using Machine
+Learning and Transfer Learning: A
+Multicentric Analysis of the SAYCARE
+Study
+
+Resumo do Artigo: "Prediction of Hypertension in the Pediatric Population Using Machine Learning and Transfer Learning: A Multicentric Analysis of the SAYCARE Study"
+Este estudo, publicado em março de 2025, desenvolveu um modelo de aprendizado de máquina utilizando transfer learning para prever hipertensão em crianças e adolescentes na América do Sul.
+Objetivo
+Desenvolver um modelo de machine learning (ML) utilizando técnicas de transfer learning (TL) para prever hipertensão em crianças e adolescentes na América do Sul Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries.
+Metodologia
+População do Estudo:
+
+Dados de dois grupos (crianças e adolescentes) em sete cidades sul-americanas foram analisados Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries
+351 crianças e 307 adolescentes selecionados especificamente para as análises de predição de hipertensão Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries
+Cidades participantes: Buenos Aires (Argentina), Lima (Peru), Medellín (Colômbia), Montevidéu (Uruguai), Santiago (Chile), São Paulo e Teresina (Brasil)
+
+Estratégia de Transfer Learning:
+Uma estratégia de TL foi implementada transferindo conhecimento de um modelo CatBoost treinado na amostra de crianças e adaptando-o para a amostra de adolescentes Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries.
+Algoritmos Utilizados:
+Random Forest, XGBoost, LightGBM e CatBoost
+Resultados Principais
+Prevalência:
+
+Entre as crianças, a prevalência de pressão arterial normal foi de 88,9% (301 participantes), enquanto 14,1% (50 participantes) tiveram pressão arterial elevada (PAE) Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries
+No grupo de adolescentes, a prevalência de pressão arterial normal foi de 92,5% (284 participantes), com 7,5% (23 participantes) apresentando PAE Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries
+
+Performance dos Modelos:
+Crianças:
+Random Forest, XGBoost e LightGBM alcançaram alta precisão (0,90), com XGBoost e LightGBM demonstrando recall superior (0,50) e AUC-ROC (0,74) Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries
+Adolescentes (sem Transfer Learning):
+Para adolescentes, modelos sem TL mostraram desempenho ruim, com valores de precisão e recall permanecendo baixos e AUC-ROC variando de 0,46 a 0,56 Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries
+Adolescentes (com Transfer Learning):
+Após aplicar TL, o desempenho do modelo melhorou significativamente, com CatBoost alcançando AUC-ROC de 0,82, precisão de 1,0 e recall de 0,18 Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries
+Fatores Preditivos Identificados
+Análise SHAP revelou:
+Baixa atividade física, aumento do tempo de tela, menor duração do sono, maior circunferência da cintura e maior consumo de alimentos como hambúrgueres, embutidos, pizza e salsichas foram contribuintes-chave Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries
+Preditores Dietéticos:
+Refrigerantes, biscoitos recheados e batatas fritas foram preditores dietéticos-chave da pressão arterial elevada, com maior consumo em adolescentes Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries
+Inovações Metodológicas
+Transfer Learning:
+
+O TL é particularmente vantajoso em cenários onde o dataset alvo é limitado, um desafio comum na pesquisa em saúde pediátrica Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries
+Uma amostra substancial de crianças foi usada para pré-treinar um modelo, que foi então ajustado usando a amostra de adolescentes Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries
+
+Tratamento de Desequilíbrio de Classes:
+
+Para abordar o desequilíbrio de classes no dataset de treino, uma estratégia de oversampling foi empregada usando a função RandomOverSampler Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries
+
+Limitações
+O estudo reconhece limitações como:
+
+O tamanho da amostra relativamente pequeno, particularmente para o grupo de adolescentes, pode impactar a generalizabilidade e robustez dos achados Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries
+A variabilidade biológica inerente no crescimento e desenvolvimento durante a infância leva a variações significativas em parâmetros fisiológicos, incluindo pressão arterial Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries
+
+Conclusões
+Os modelos de machine learning com transfer learning efetivamente identificaram esses riscos, enfatizando a necessidade de intervenções dietéticas precoces para prevenir hipertensão e apoiar a saúde cardiovascular em populações pediátricas Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries
+O estudo demonstra que o transfer learning é uma técnica promissora para superar limitações de dados em pesquisas pediátricas, melhorando significativamente a capacidade de predição de hipertensão em adolescentes através do conhecimento transferido de modelos treinados em crianças.

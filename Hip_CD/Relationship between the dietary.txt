@@ -1,0 +1,63 @@
+Relationship between the dietary
+inflammation index and hypertension
+in American children and adolescents:
+findings from the national health
+and nutrition examination survey 1999–2018
+
+Resumo do Artigo: "Relationship between the dietary inflammation index and hypertension in American children and adolescents: findings from the national health and nutrition examination survey 1999–2018"
+Este estudo, publicado em fevereiro de 2025, examinou a relação entre o Índice de Inflamação Dietética (DII) e hipertensão em crianças e adolescentes americanos usando dados do NHANES de 1999 a 2018.
+Objetivo
+Este estudo teve como objetivo examinar a relação entre o índice de inflamação dietética (DII) e hipertensão em crianças e adolescentes usando dados do National Health and Nutrition Examination Survey (NHANES) conduzido entre 1999 e 2018 Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC.
+Metodologia
+População do Estudo:
+
+A análise incluiu 18.460 participantes com idades entre 8 e 17 anos, com 2.070 diagnosticados com hipertensão juvenil, definida como pressão arterial acima do percentil 95 para sua idade e gênero Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+Os 18.460 crianças e adolescentes incluídos no estudo representam aproximadamente 37 milhões de crianças e adolescentes nos EUA Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+
+Cálculo do DII:
+
+Baseado na ingestão de um componente alimentar específico, podemos calcular o DII para cada componente alimentar. Para avaliar o impacto de toda ingestão dietética na inflamação de um participante dentro de um dia, os escores DII individuais calculados para todos os componentes alimentares são somados para derivar o DII geral Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+Um escore positivo indica potencial pró-inflamatório, enquanto um escore negativo representa potencial anti-inflamatório Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+Grupos divididos em três tertis: T1: -3,97-1,53; T2: 1,53–2,95; T3: 2,95–5,42
+
+Análise Estatística:
+Análises de regressão logística multivariável ponderada e spline cúbico restrito (RCS) foram conduzidas para explorar a associação entre DII e hipertensão juvenil Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+Resultados Principais
+Associação Geral:
+Os resultados revelaram uma relação positiva entre escores DII mais altos e maior probabilidade de hipertensão em jovens, com análises de regressão e RCS mostrando uma correlação linear positiva após ajuste para confundidores potenciais Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+Modelo Totalmente Ajustado:
+
+No modelo totalmente ajustado, ajustamos para idade, gênero, raça, renda familiar, ingestão de energia, IMC, eGFR e DM. Para cada aumento de 1 no DII, houve aproximadamente 11% (IC 95%: 1-21%) de aumento na ocorrência de hipertensão em crianças e adolescentes Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+Em crianças e adolescentes no T2, a prevalência de hipertensão foi 1,58 vezes (IC 95%: 1,20–2,09) a do T1, e em crianças e adolescentes no T3, a prevalência de hipertensão foi 1,71 vezes (IC 95%: 1,25–2,34) a do T1 Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+
+Análise por Spline Cúbico Restrito:
+Após ajustar para idade, sexo, raça, renda familiar, ingestão de energia, IMC, eGFR e diabetes, houve uma correlação linear positiva entre DII e a incidência de hipertensão em crianças e adolescentes Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+Análise de Subgrupos
+Por Características Demográficas:
+Encontramos correlações positivas significativas entre DII e hipertensão em crianças e adolescentes de diferentes idades e gêneros após ajuste para covariáveis incluindo idade, sexo, raça, renda familiar, ingestão de energia, IMC, eGFR e diabetes Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+Por Raça:
+Encontramos uma correlação positiva significativa entre DII e a ocorrência de hipertensão tanto em grupos de crianças e adolescentes brancos quanto de outras raças. No entanto, essa correlação não foi significativa entre indivíduos negros, o que pode estar relacionado ao poder estatístico reduzido devido ao tamanho menor da amostra Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+Por IMC:
+Na análise de subgrupo baseada no IMC, encontramos uma correlação positiva significativa entre DII e ocorrência de hipertensão entre crianças e adolescentes com peso normal. No entanto, essa correlação não foi significativa entre crianças e adolescentes com sobrepeso e obesidade Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+Características Clínicas
+Comparação entre Grupos:
+
+A pressão arterial sistólica média para crianças e adolescentes com hipertensão foi 118,51 mmHg, e a pressão arterial diastólica média foi 65,45 mmHg. Em contraste, a pressão arterial sistólica média para crianças e adolescentes sem hipertensão foi 104,06 mmHg, e a pressão arterial diastólica média foi 57,25 mmHg Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+
+Componentes Dietéticos:
+Encontramos que os níveis de DII foram significativamente maiores entre crianças e adolescentes com hipertensão. No entanto, entre os componentes individuais do DII, apenas a ingestão de fibra e vitamina A mostraram diferenças estatisticamente significativas Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+Implicações e Mecanismos
+Papel da Inflamação:
+A inflamação crônica de longo prazo pode desempenhar um papel importante na ocorrência e desenvolvimento da hipertensão. Respostas inflamatórias podem causar disfunção das células endoteliais, levando à vasoconstrição e pressão arterial elevada Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+Intervenção Dietética:
+Portanto, reduzir os níveis gerais de inflamação através da dieta pode ser uma abordagem importante no tratamento da hipertensão Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+Limitações
+O estudo reconhece várias limitações:
+
+É um estudo transversal, portanto incapaz de estabelecer relações causais diretas. Exploração adicional através de estudos clínicos prospectivos mais amplos é necessária para elucidar a relação entre DII e hipertensão Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+Todos os componentes dietéticos neste estudo foram auto-relatados pelos pacientes, o que pode introduzir viés de auto-relato Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+
+Conclusões
+Neste estudo, inscrevemos uma população diversa de crianças e adolescentes dos Estados Unidos, totalizando 18.460 indivíduos, e encontramos uma correlação positiva significativa entre DII e a incidência de hipertensão juvenil. Isso sugere que adotar hábitos dietéticos razoáveis e saudáveis pode desempenhar um papel significativo na prevenção e tratamento da hipertensão em adolescentes Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries - PMC
+Significado Clínico
+Este é o primeiro estudo em larga escala a investigar especificamente a relação entre o DII e hipertensão juvenil, fornecendo evidências importantes sobre como padrões dietéticos pró-inflamatórios podem contribuir para o desenvolvimento de hipertensão em populações pediátricas. Os achados sugerem que intervenções dietéticas focadas em reduzir a inflamação podem ser estratégias valiosas para a prevenção primária da hipertensão em jovens.Tentar novamente

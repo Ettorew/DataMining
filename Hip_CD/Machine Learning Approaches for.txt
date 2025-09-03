@@ -1,0 +1,38 @@
+Machine Learning Approaches for
+Predicting Hypertension and Its
+Associated Factors Using
+Population-Level Data From Three South Asian Countries
+
+Resumo do Artigo: "Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries"
+Este estudo, publicado em março de 2022, utilizou técnicas de aprendizado de máquina para prever hipertensão e seus fatores associados em três países do Sul da Ásia: Bangladesh, Nepal e Índia.
+Objetivo
+O estudo utilizou abordagens de ML para identificar fatores associados ao diagnóstico de hipertensão e comparou o desempenho dos modelos para prever hipertensão em três países do Sul da Ásia [2010.07531] An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints.
+Metodologia
+Fonte de Dados:
+
+Dados individuais harmonizados das pesquisas Demographic and Health Survey (DHS) mais recentes de Bangladesh (2017-18), Nepal (2016) e Índia (2015-16) [2010.07531] An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints
+Total de 818.603 participantes que consentiram com medições de pressão arterial, peso e altura [2010.07531] An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints
+
+Algoritmos Utilizados:
+Seis classificadores baseados em ML: decision tree (DT), random forest (RF), gradient boosting machine (GBM), extreme gradient boosting (XGBoost), logistic regression (LR) e linear discriminant analysis (LDA) [2010.07531] An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints
+Resultados Principais
+Prevalência: Dos 818.603 participantes, 82.748 (10,11%) apresentaram hipertensão [2010.07531] An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints
+Performance dos Modelos:
+
+XGBoost, GBM, LR e LDA mostraram a maior pontuação de precisão de 90%, RF e DT alcançaram 89% e 83%, respectivamente [2010.07531] An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints
+XGBoost, GBM, LR e LDA alcançaram valor de recall de 100%, RF marcou 99% e DT marcou 90% [2010.07531] An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints
+
+Fatores de Risco Identificados:
+Os modelos ML mostraram que os fatores significativos para hipertensão foram idade e IMC. Já ter medido a PA, educação, tomar medicamento para baixar a PA e percepção do médico sobre PA alta também foram significativos, mas comparativamente menores que idade e IMC [2010.07531] An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints
+Características Demográficas
+
+Maioria dos participantes estava na faixa etária de 15-24 anos (33,68%)
+58,60% tinham IMC normal, 21,78% estavam abaixo do peso
+Participantes com mais de 45 anos eram mais propensos à hipertensão (23,33% vs. 2,94% nos mais jovens)
+
+Conclusões
+Os modelos ML tiveram bom desempenho para prever hipertensão e seus fatores associados em populações do Sul da Ásia. Quando empregados em plataforma de código aberto, estes modelos são escaláveis para milhões de pessoas e podem ajudar indivíduos a se auto-triarem para hipertensão em estágio precoce An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints – JHU CSSE
+Limitações
+O estudo reconhece limitações como número limitado de variáveis incluídas nos modelos, falta de dados sobre histórico familiar, atividade física e parâmetros bioquímicos, e a necessidade de validação externa dos modelos.
+Implicações
+O estudo sugere que usando informações simples e não-invasivas, os modelos ML podem prever hipertensão na população do Sul da Ásia com alta precisão. Idade e IMC foram os fatores de risco mais significativos

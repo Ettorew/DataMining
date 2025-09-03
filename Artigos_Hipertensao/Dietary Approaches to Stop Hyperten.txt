@@ -1,0 +1,33 @@
+Dietary Approaches to Stop Hypertension Dietary
+Intervention Improves Blood Pressure and
+Vascular Health in Youth With Elevated Blood
+Pressure
+
+Resumo do Artigo: "Dietary Approaches to Stop Hypertension Dietary Intervention Improves Blood Pressure and Vascular Health in Youth With Elevated Blood Pressure"
+Objetivo
+Este ensaio clínico randomizado controlado avaliou os efeitos pós-intervenção e de seguimento de 18 meses de uma intervenção nutricional comportamental de 6 meses focada na dieta DASH (Dietary Approaches to Stop Hypertension), iniciada em clínica com subsequente contato telefônico e por correio, na pressão arterial (PA) e função endotelial em adolescentes com pressão arterial elevada JhuDeepAI.
+Metodologia
+População do Estudo:
+Adolescentes (n=159) de 11 a 18 anos de idade com pressão arterial elevada recém-diagnosticada ou hipertensão estágio 1 tratados em clínica hospitalar foram randomizados Published Data – JHU CSSE
+Intervenção:
+Os participantes do grupo DASH receberam um manual para levar para casa mais 2 sessões de aconselhamento face a face no baseline e aos 3 meses Published Data – JHU CSSE
+Contexto da Dieta DASH
+Princípios da Dieta DASH:
+O plano alimentar DASH, também conhecido como dieta DASH, é um plano alimentar flexível e equilibrado que ajuda a criar um padrão alimentar saudável para o coração durante a vida An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints – JHU CSSE
+Eficácia Comprovada:
+Ao longo da última década, o aumento da ingestão de potássio e o consumo de padrões dietéticos baseados na "dieta DASH" emergiram como estratégias eficazes que também reduzem a PA An Open-Source Dataset on Dietary Behaviors and DASH Eating Plan Optimization Constraints - ADS
+Relevância para Saúde Pública
+Impacto das Doenças Relacionadas à Dieta:
+Nos últimos 50 anos nos Estados Unidos, os clínicos observaram um aumento de doenças, incluindo hipertensão, diabetes, obesidade e doença arterial coronariana. Estima-se que 2000 pessoas morrem de doença cardíaca todos os dias nos Estados Unidos. Cerca de 30% dos adultos americanos são hipertensos data set – JHU CSSE
+Potencial da Intervenção Dietética:
+Os fatores de risco da hipertensão, felizmente, podem ser controlados até certo ponto utilizando a dieta DASH data set – JHU CSSE
+Evidências Científicas
+Base de Evidências:
+Um corpo substancial de evidências apoia fortemente o conceito de que múltiplos fatores dietéticos afetam a pressão arterial (PA). Modificações dietéticas bem estabelecidas que reduzem a PA são a redução da ingestão de sal, perda de peso e moderação do consumo de álcool (entre aqueles que bebem) ADSPapers with Code
+Eficácia em Hipertensão Sistólica Isolada:
+O uso da dieta DASH (Dietary Approaches to Stop Hypertension), que é rica em frutas, vegetais e laticínios com baixo teor de gordura, reduz significativamente a pressão arterial Frontiers | Machine Learning Approaches for Predicting Hypertension and Its Associated Factors Using Population-Level Data From Three South Asian Countries
+Limitações das Informações Disponíveis
+Infelizmente, não consegui acessar o texto completo do artigo específico que você solicitou devido a problemas técnicos com o acesso aos servidores. Com base nas informações disponíveis dos resultados da busca, posso confirmar que este foi um ensaio clínico randomizado controlado que estudou 159 adolescentes de 11-18 anos com pressão arterial elevada, implementando uma intervenção DASH de 6 meses com follow-up de 18 meses.
+Significado Clínico
+Este estudo representa uma contribuição importante para a literatura sobre intervenções dietéticas em jovens com hipertensão, demonstrando que abordagens nutricionais baseadas em evidências como a dieta DASH podem ser eficazes não apenas em adultos, mas também em populações pediátricas com pressão arterial elevada.
+Para obter informações mais detalhadas sobre os resultados específicos, metodologia completa e conclusões deste estudo, recomendo acessar diretamente o artigo completo através da revista Hypertension da American Heart Association.

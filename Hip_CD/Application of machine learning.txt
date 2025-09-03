@@ -1,0 +1,84 @@
+Application of machine learning algorithms in predicting new onset hypertension: a study based on the China Health and Nutrition Survey
+
+Resumo Detalhado
+1. Contexto e Objetivo
+
+O estudo investigou como diferentes algoritmos de machine learning podem prever a hipertensão de início recente utilizando dados do China Health and Nutrition Survey (CHNS). O objetivo principal foi comparar modelos — desde abordagens tradicionais até redes neurais — e identificar os fatores mais relevantes associados ao risco de desenvolver hipertensão em quatro anos.
+PubMed
+J-STAGE
+
+2. Dados e Metodologia
+
+População estudada: 4.982 indivíduos sem hipertensão em 2011, com acompanhamento até 2015. Desses, 1.017 desenvolveram hipertensão.
+PubMed
+J-STAGE
+
+Modelos testados:
+
+Tradicionais: Logistic Regression, Support Vector Machine, XGBoost, LightGBM
+
+Deep learning: TabNet e o inovador AMFormer
+
+Foram criados dois conjuntos de variáveis:
+
+Um com 16 features selecionadas manualmente
+
+Outro com 29 features, incluindo versões categorizadas e discretizadas de variáveis contínuas (como idade, IMC, relação cintura-quadril etc.)
+J-STAGE
++1
+
+Utilizaram técnicas de pré-processamento como tratamento de valores fora dos intervalos (via KNN), e categorização de variáveis contínuas para evitar outliers e capturar relações não-lineares.
+J-STAGE
++1
+
+3. Resultados
+
+Com 16 features: o melhor performance foi do Logistic Regression, com AUC de 0,784 (IC 0,775–0,806).
+PubMed
+J-STAGE
+
+Com 29 features: o destaque foi o AMFormer, alcançando AUC de 0,802 (IC 0,795–0,820), além de liderar em:
+
+MCC: 0,417 (IC 0,400–0,434)
+
+F1-score: 0,503 (IC 0,484–0,505)
+PubMed
+J-STAGE
+
+4. Interpretação via SHAP
+
+Para entender quais variáveis mais influenciaram as previsões do AMFormer, foi utilizado o SHAP (Shapley Additive Explanations). Os principais fatores associados a maior risco foram:
+
+Idade
+
+Província/região e área urbana vs. rural
+
+Circunferência da cintura
+
+IMC e relação cintura-quadril (WHR)
+
+Peso
+
+Nível educacional e status de emprego
+PubMed
+J-STAGE
+
+5. Conclusões e Implicações
+
+O AMFormer, pela primeira vez aplicado nesta tarefa, superou modelos clássicos e outros de deep learning.
+
+A abordagem combinou predição precisa com interpretabilidade, ajudando a identificar fatores de risco modificáveis.
+
+Limitações destacadas incluem:
+
+A falta de validação externa em outras populações
+
+A ausência de dados clínicos adicionais (como exames laboratoriais)
+
+A curta janela de previsão (4 anos), sugerindo necessidade de acompanhamento mais prolongado no futuro
+J-STAGE
++1
+
+Em resumo:
+
+O estudo mostrou que, no contexto do CHNS, o AMFormer foi o modelo mais eficaz para prever hipertensão emergente, com melhor acurácia e métricas robustas. Variáveis como idade, medidas antropométricas e fatores socioeconômicos se destacaram como preditores importantes. A abordagem abre caminho para modelos preditivos mais complexos e explicáveis em saúde pública.

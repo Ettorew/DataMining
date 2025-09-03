@@ -1,0 +1,64 @@
+Dietary Strategies in the Prevention and Treatment of
+Hypertension in Children and Adolescents: A Narrative Review
+
+Resumo do Artigo: "Dietary Strategies in the Prevention and Treatment of Hypertension in Children and Adolescents: A Narrative Review"
+Esta revisão narrativa, publicada em agosto de 2024, examina várias estratégias dietéticas para prevenção e tratamento da hipertensão em crianças e adolescentes.
+Objetivo
+O propósito deste manuscrito é discutir vários modelos de nutrição com impactos melhor ou menos conhecidos no desenvolvimento da hipertensão arterial e referir-se criticamente a eles, bem como discutir os mecanismos envolvidos nos nutrientes e seus efeitos potenciais na HTN Hypertension Detection System Using Machine Learning.
+Principais Estratégias Dietéticas
+1. Dieta DASH (Dietary Approaches to Stop Hypertension)
+Eficácia Comprovada:
+A dieta DASH continua sendo a estratégia mais comprovada e eficaz para manejo da HTN. Além disso, é fácil de seguir e deve continuar sendo a primeira abordagem recomendada na luta contra a hipertensão, incluindo em crianças e adolescentes Hypertension Detection System Using Machine Learning
+Evidências em Jovens:
+O ensaio clínico randomizado controlado recente conduzido por Couch et al. avaliou os efeitos de uma intervenção nutricional comportamental focada na dieta DASH de 6 meses na PA e função endotelial em adolescentes com PA elevada. Os resultados demonstraram que o grupo DASH mostrou melhorias significativas na PAS, função endotelial e qualidade da dieta imediatamente pós-intervenção e no acompanhamento de 18 meses comparado àqueles que receberam cuidados de rotina Hypertension Detection System Using Machine Learning
+Redução da Pressão Arterial:
+Em uma revisão recente sobre atrasar o início ou reduzir resultados de saúde adversos relacionados à pressão arterial alta em crianças e adolescentes, a dieta tipo DASH alcançou reduções estatisticamente significativas na PAS em 2,2 mmHg e na PAD em 2,8 mmHg Hypertension Detection System Using Machine Learning
+2. Dieta Mediterrânea
+Evidências Limitadas em Jovens:
+No entanto, poucos estudos relataram sobre os efeitos da aderência à DM na pressão arterial (PA). Sub-estudos do ensaio PREDIMED indicam que uma DM suplementada com azeite de oliva ou nozes leva a reduções na PAS de 5,8–7,3 mmHg e PAD de 3,3–3,4 mmHg em adultos comparada a uma dieta controle com baixo teor de gordura Hypertension Detection System Using Machine Learning
+Fatores Genéticos:
+Baseado nesse conhecimento, pode-se concluir que há uma relação entre alta aderência a uma DM em crianças e adolescentes e valores menores de PA, mas há diferentes respostas dependendo da carga genética de cada indivíduo Hypertension Detection System Using Machine Learning
+3. Dietas Plant-Based (Baseadas em Plantas)
+Evidências Prometedoras:
+Dois ensaios prospectivos randomizados mostraram a eficácia de PBDs em reduzir PA em crianças e adolescentes, ambos conduzidos por Macknin et al. Naqueles participantes que seguiram a PBD, após 4 semanas de intervenção, a PAS diminuiu significativamente em −6 mmHg (−l6, 0), p = 0,009, assim como a pressão arterial diastólica em −1 mmHg (−10, 0), p = 0,019 Hypertension Detection System Using Machine Learning
+4. Papel do Sódio e Potássio
+Importância da Relação Na/K:
+No entanto, não é apenas a dose diária de sódio, mas também sua proporção com a ingestão de potássio que importa. A deficiência relativa de potássio (em relação à quantidade de sódio consumido) parece ser mais importante como causa de hipertensão do que a quantidade absoluta de sódio na dieta em si Hypertension Detection System Using Machine Learning
+Consumo Excessivo em Crianças:
+Muitos estudos mostraram que a ingestão de sódio em crianças está entre 100% e 250% maior que a dose recomendada. Além disso, como demonstrado em alguns estudos, a ingestão excessiva de sódio dietético provoca sede, que pode levar ao aumento do consumo de bebidas açucaradas Hypertension Detection System Using Machine Learning
+Meta-análise da OMS:
+De acordo com a meta-análise realizada pela OMS de nove ensaios controlados conduzidos em crianças com 14 comparações testando pressão arterial sistólica, a diminuição do sódio resultou em uma diminuição na pressão arterial sistólica em repouso de 0,84 mmHg (IC 95%: 0,25, 1,43) Hypertension Detection System Using Machine Learning
+5. Ingestão de Líquidos
+Bebidas Açucaradas e Hipertensão:
+Alto consumo de SSBs foi mostrado elevar a PAS e aumentar o risco de HTN entre crianças. Uma meta-análise abrangente descobriu que alto consumo de SSBs está significativamente associado com risco aumentado tanto de HTN quanto de obesidade em crianças e adolescentes Hypertension Detection System Using Machine Learning
+Quantificação do Risco:
+O consumo de SSB foi associado com aumento de 1,67 mmHg na PAS em crianças e adolescentes, mas não com aumento significativo na PAD. Consumidores altos de SSB eram, além disso, 1,36 vezes mais propensos a desenvolver HTN comparados com consumidores baixos de SSB Hypertension Detection System Using Machine Learning
+Bebidas Energéticas:
+Em jovens saudáveis, o uso agudo de bebida energética está ligado ao aumento significativo da pressão arterial sistólica e diastólica, junto com uma possível diminuição da frequência cardíaca. O uso de bebidas energéticas contendo estimulantes como cafeína, guaraná e outros pode também estar ligado à ansiedade, insônia, problemas gastrointestinais e desidratação Hypertension Detection System Using Machine Learning
+6. Antioxidantes dos Alimentos
+Papel na Pressão Arterial:
+Um estudo recente na coorte NHANES (n = 21.526) identificou uma associação linear negativa entre índice de antioxidantes dietéticos e HTN. Assim, a vitamina C hidrossolúvel (em kiwi, frutas cítricas, morangos, pimentões, brócolis e couve-de-bruxelas) e vitamina E lipossolúvel (em nozes, sementes, óleos vegetais, espinafre, brócolis) exercem uma potente capacidade antioxidante nas regiões hidrofílicas–hidrofóbicas contribuindo para lidar com o estresse Hypertension Detection System Using Machine Learning
+7. Estratégias de Saúde Pública
+Intervenções Multicomponentes:
+Evidências sugerem que intervenções multicomponentes implementadas em diferentes níveis estão associadas com diminuição do peso corporal e resultados de saúde favoráveis relacionados à adiposidade. Além disso, pesquisas mostram que elas representam um modelo potente para melhorar o peso corporal e resultados cardiometabólicos incluindo PA Hypertension Detection System Using Machine Learning
+Estratégias por Ambiente
+Intervenções Escolares:
+Cai et al. conduziram uma meta-análise que incluiu 21 estudos de intervenção voltados para crianças e adolescentes que envolviam um ambiente escolar. Os resultados mostraram um efeito de intervenção de −1,64 mmHg (IC 95%: −2,56, −0,71; p = 0,001) para PAS e −1,44 mmHg (IC 95%: −2,28, −0,60; p = 0,001) para PAD Hypertension Detection System Using Machine Learning
+Intervenções Familiares:
+Revisões sistemáticas relataram sobre o papel valioso das intervenções baseadas na família no manejo da obesidade de crianças com PA ou HTN Hypertension Detection System Using Machine Learning
+Limitações e Considerações
+Necessidade de Mais Pesquisas:
+No entanto, vários estudos mostraram o efeito limitado de CBIs no escore Z do IMC. Uma observação digna de nota é que alguns estudos relataram resultados mistos, alertando que evidências para intervenções baseadas na escola, seus componentes e combinações ainda estão para ser determinadas e totalmente compreendidas Hypertension Detection System Using Machine Learning
+Conclusões
+A dieta DASH continua sendo a estratégia mais comprovada e eficaz para manejo da HTN. Além disso, é fácil de seguir e deve continuar sendo a primeira abordagem recomendada na luta contra a hipertensão, incluindo em crianças e adolescentes. Outros padrões dietéticos discutidos podem beneficiar a pressão arterial Hypertension Detection System Using Machine Learning
+Implicações Práticas
+Esta revisão enfatiza que:
+
+A dieta DASH permanece como padrão-ouro para manejo dietético da hipertensão pediátrica
+Redução do sódio e aumento do potássio são fundamentais
+Evitar bebidas açucaradas é crucial para prevenção
+Intervenções multicomponentes são mais eficazes
+Antioxidantes naturais dos alimentos têm papel protetor
+Abordagens familiares e escolares são essenciais para implementação efetiva
+
+O documento fornece uma base científica sólida para desenvolvimento de diretrizes dietéticas específicas para prevenção e tratamento da hipertensão em populações pediátricas.Tentar novamenteClaude pode cometer erros. Por favor, verifique as fontes citadas. Sonnet 4
