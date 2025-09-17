@@ -1,0 +1,41 @@
+Dimensão: Geografia
+
+Aspecto: Unidade da Federação
+- Código da Variável: V0001
+- Descrição: Identificação da UF (ex: Minas Gerais, São Paulo, etc.)
+
+Aspecto: Região Metropolitana
+- Código da Variável: V0031
+- Descrição: Tipo de área (Capital, Resto da RM, RIDE, Resto da UF)
+
+Aspecto: Situação Censitária
+- Código da Variável: V0026
+- Descrição: Tipo de situação censitária (Urbano ou Rural)
+
+Aspecto: Estrato Amostral
+- Código da Variável: V0024
+- Descrição: Estrato amostral da pesquisa (para controle estatístico)
+
+Aspecto: UPA (Unidade Primária de Amostragem)
+- Código da Variável: UPA_PNS
+- Descrição: Identificação da unidade amostral
+
+Aspecto: Tipo de domicílio
+- Código da Variável: A001
+- Descrição: Casa, apartamento, cortiço, etc.
+
+Aspecto: Localização e acesso
+- Código da Variável: A01901
+- Descrição: Acesso à internet no domicílio
+
+Aspecto: Presença de infraestrutura pública
+- Código da Variável: P046
+- Descrição: Existe lugar público para atividade física perto do domicílio
+
+Aspecto: Participação em programas públicos locais
+- Código da Variável: P04701 / P04801
+- Descrição: Conhece e participa de programas públicos de atividade física
+
+Aspecto: Barreiras geográficas
+- Código da Variável: P04902
+- Descrição: Motivo para não participar de programas públicos (ex: distância, insegurança)

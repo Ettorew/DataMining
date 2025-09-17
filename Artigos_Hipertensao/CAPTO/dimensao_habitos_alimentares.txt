@@ -1,0 +1,43 @@
+
+DIMENSÃO: Hábitos Alimentares
+
+ASPECTO 1: Consumo alimentar no dia anterior
+- P00601: Arroz, macarrão, polenta, cuscuz ou milho verde
+- P00602: Batata comum, mandioca/aipim/macaxeira, cará ou inhame
+- P00603: Feijão, ervilha, lentilha ou grão de bico
+- P00604: Carne de boi, porco, frango, peixe
+- P00605: Ovo
+- P00607: Alface, couve, brócolis, agrião ou espinafre
+- P00608: Abóbora, cenoura, batata doce ou quiabo/caruru
+- P00609: Tomate, pepino, abobrinha, berinjela, chuchu ou beterraba
+- P00610: Mamão, manga, melão amarelo ou pequi
+- P00611: Laranja, banana, maçã, abacaxi
+- P00612: Leite
+- P00613: Amendoim, castanha de caju ou castanha do Brasil/Pará
+- P00614 a P00623: Alimentos ultraprocessados (refrigerantes, doces, embutidos, etc.)
+
+ASPECTO 2: Frequência semanal de consumo
+- P006: Feijão
+- P00901: Verduras/legumes
+- P01001: Frequência diária de verduras/legumes
+- P01101: Carne vermelha
+- P013: Frango
+- P015: Peixe
+- P01601: Suco natural
+- P018: Frutas
+- P019: Frequência diária de frutas
+- P02001: Suco artificial
+- P02002: Refrigerante
+- P02101: Tipo de suco artificial
+- P02102: Tipo de refrigerante
+- P023: Leite
+- P02401: Tipo de leite
+- P02501: Doces
+- P02602: Substituição de refeições por lanches
+
+ASPECTO 3: Percepção do consumo de sal
+- P02601: Avaliação do consumo de sal
+
+ASPECTO 4: Estilo de vida complementar
+- P027 a P03303: Consumo de álcool
+- P034 a P03702: Prática de atividade física

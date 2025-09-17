@@ -1,0 +1,62 @@
+DIMENSÃO: Genética
+
+ASPECTO 1: Histórico familiar de doenças
+- Q00201: Diagnóstico de hipertensão arterial
+- Q03001: Diagnóstico de diabetes
+- Q060: Diagnóstico de colesterol alto
+- Q06306 a Q06311: Diagnóstico de doenças cardíacas (infarto, angina, insuficiência cardíaca, arritmia)
+- Q068: Diagnóstico de AVC
+- Q074: Diagnóstico de asma
+- Q079: Diagnóstico de artrite ou reumatismo
+- Q084: Problema crônico de coluna
+- Q088: Diagnóstico de DORT
+- Q092: Diagnóstico de depressão
+- Q11006 a Q11010: Diagnóstico de outras doenças mentais (ansiedade, esquizofrenia, TOC, etc.)
+- Q11604 a Q11607: Diagnóstico de doenças pulmonares crônicas
+- Q120: Diagnóstico de câncer
+- Q124: Diagnóstico de insuficiência renal crônica
+
+ASPECTO 2: Risco genético individual
+- Q031: Idade no diagnóstico de diabetes
+- Q061: Idade no diagnóstico de colesterol alto
+- Q064: Idade no diagnóstico de doença cardíaca
+- Q070: Idade no diagnóstico de AVC
+- Q075: Idade no diagnóstico de asma
+- Q080: Idade no diagnóstico de artrite
+- Q085: Idade no início do problema de coluna
+- Q08901: Idade no diagnóstico de DORT
+- Q09301: Idade no diagnóstico de depressão
+- Q111: Idade no diagnóstico de doença mental
+- Q11701: Idade no diagnóstico de doença pulmonar
+- Q12201: Idade no diagnóstico de câncer
+- Q125: Idade no diagnóstico de insuficiência renal
+
+ASPECTO 3: Acesso e uso de testes genéticos
+- L021: Teste do pezinho
+- L024: Teste da orelhinha
+- L027: Teste do olhinho
+- L030: Teste do coraçãozinho
+
+ASPECTO 4: Conhecimento e atitudes sobre genética
+- Não diretamente abordado na PNS 2019
+
+ASPECTO 5: Impacto da genética na saúde e estilo de vida
+- Q028: Limitação das atividades por hipertensão
+- Q058: Limitação das atividades por diabetes
+- Q067: Limitação das atividades por doença cardíaca
+- Q073: Limitação das atividades por AVC
+- Q078: Limitação das atividades por asma
+- Q083: Limitação das atividades por artrite
+- Q087: Limitação das atividades por problema na coluna
+- Q091: Limitação das atividades por DORT
+- Q109: Limitação das atividades por depressão
+- Q115: Limitação das atividades por outras doenças mentais
+- Q119: Limitação das atividades por doenças pulmonares
+- Q12301: Limitação das atividades por câncer
+- Q127: Limitação das atividades por insuficiência renal
+
+ASPECTO 6: Genética e equidade
+- Q009: Obtenção de medicamentos no SUS
+- Q015: Atendimento feito pelo SUS
+- Q043: Atendimento para diabetes feito pelo SUS
+- Q105: Atendimento para depressão feito pelo SUS

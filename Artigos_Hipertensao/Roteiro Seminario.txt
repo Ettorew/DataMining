@@ -1,0 +1,23 @@
+Bom dia a todos. Hoje vou apresentar o AWS Glue, que é uma ferramenta de ETL da Amazon Web Services.
+
+Para começar, é importante lembrar o que significa ETL: Extract, Transform, Load, ou seja, extrair, transformar e carregar dados. Esse processo é essencial quando queremos consolidar informações de diferentes fontes para análise, relatórios ou até para alimentar modelos de machine learning.
+
+O AWS Glue foi criado exatamente para facilitar esse trabalho. Ele é um serviço serverless, o que significa que não precisamos nos preocupar em configurar ou gerenciar servidores. Toda a infraestrutura é provisionada pela própria AWS, e nós só precisamos definir o que queremos fazer com os dados.
+
+O serviço foi lançado em 2017 e, ao longo do tempo, ganhou vários recursos adicionais. No início, ele era apenas uma solução para ETL em lote, mas hoje já possui componentes como o Glue Data Catalog, que centraliza metadados; o Glue Studio, que permite criar pipelines ETL de forma visual; o Glue DataBrew, para preparar dados sem precisar programar; e o Glue Streaming, que trabalha com dados em tempo real.
+
+Uma das grandes vantagens do Glue é a integração. Ele se conecta a praticamente todos os serviços de dados da própria AWS, como o S3, Redshift, DynamoDB e RDS, mas também consegue se integrar a bancos externos como MySQL, PostgreSQL, Oracle, SQL Server, MongoDB, Snowflake, além de ferramentas de streaming como Kafka. Também suporta diversos formatos de arquivos, como JSON, CSV, Parquet e Avro.
+
+Do ponto de vista de infraestrutura, tudo roda na nuvem da AWS, mas precisamos cuidar de algumas configurações, como permissões de acesso e a definição de quantas DPUs – que são as unidades de processamento do Glue – cada job vai utilizar.
+
+Para quem quer aprender, existem várias opções de treinamento: cursos oficiais da AWS, documentação, tutoriais e uma comunidade bastante ativa. Já o suporte é oferecido pela própria AWS, com diferentes planos de acordo com a necessidade de cada empresa.
+
+Em relação a atualizações, o Glue possui versões baseadas em runtimes específicos de Spark e Python. Quando uma versão perde suporte, é necessário migrar os jobs para versões mais novas, garantindo estabilidade e segurança.
+
+Sobre os custos, o Glue segue o modelo pay-as-you-go, ou seja, você paga pelo que usar. Um exemplo: o processamento custa cerca de US$ 0,44 por DPU-hora. Isso significa que se um job usar 6 DPUs durante 15 minutos, o custo será em torno de 66 centavos de dólar. Além disso, o Glue Data Catalog é gratuito até certo limite, e depois passa a ter cobrança.
+
+Pensando em casos de uso, o Glue é bastante aplicado na criação de data lakes no Amazon S3, na preparação de dados para machine learning com o SageMaker, na integração de fontes heterogêneas e até em pipelines de dados em tempo real para dashboards.
+
+Claro que existem vantagens e desvantagens. Do lado positivo, ele é serverless, integra-se muito bem com o ecossistema da AWS, escala conforme a demanda e tem interfaces que facilitam o trabalho, como o Glue Studio e o DataBrew. Por outro lado, há a dependência do ecossistema AWS, os custos podem crescer se não forem bem controlados e, para pipelines mais complexos, ainda é necessário ter domínio de ferramentas como PySpark.
+
+Em conclusão, o AWS Glue é uma solução moderna e poderosa para quem precisa trabalhar com ETL na nuvem. Ele acelera a criação de pipelines de dados, simplifica a integração de fontes diversas e é ideal para empresas que já estão dentro do ecossistema da AWS. Porém, exige planejamento para otimizar custos e também treinamento para que os times técnicos possam aproveitar todo o seu potencial.

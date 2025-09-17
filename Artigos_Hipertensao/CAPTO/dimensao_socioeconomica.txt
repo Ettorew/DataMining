@@ -1,0 +1,28 @@
+1. Renda e Posição Econômica
+Rendimento domiciliar total → VDF002
+Rendimento domiciliar per capita → VDF003
+Faixa de rendimento per capita → VDF004
+Recebimento de benefícios sociais → VDF001
+2. Condições de Moradia
+Tipo de domicílio → A001
+Material das paredes, piso e cobertura → A002010, A003010, A004010
+Número de cômodos e dormitórios → A01001, A011
+Acesso à água e esgoto → A005010, A005012, A00601, A01501, A016010
+Destino do lixo → A016010
+Bens duráveis no domicílio → A018013 a A018028 (geladeira, TV, celular, etc.)
+3. Educação
+Nível de instrução mais elevado → VDD004A
+Frequência escolar atual ou passada → D00201, D00901
+Alfabetização → D001
+4. Trabalho e Ocupação
+Condição de ocupação → VDE002
+Tipo de trabalho e setor → E01401, E01501, VDE014
+Rendimento do trabalho principal → E01602
+Carga horária semanal → E017, E019
+5. Infraestrutura e Acesso
+Acesso à internet → A01901
+Localização do domicílio (UF, capital, rural/urbano) → V0001, V0031, V0026
+6. Composição Familiar
+Número de moradores → V0022
+Relação entre os moradores → C004
+Presença de crianças ou idosos → inferido por idade (C00703, C008)

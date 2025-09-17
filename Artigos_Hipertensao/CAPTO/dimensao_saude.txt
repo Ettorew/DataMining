@@ -1,0 +1,63 @@
+ DIMENSÃO: Saúde
+ASPECTO 1: Estado geral de saúde
+J001: Avaliação geral do estado de saúde
+J00101: Avaliação considerando bem-estar físico e mental
+N001: Autoavaliação da saúde
+N00101: Autoavaliação considerando bem-estar físico e mental
+ASPECTO 2: Doenças crônicas e condições de saúde
+J007: Diagnóstico de doenças crônicas
+Q00201: Hipertensão arterial
+Q03001: Diabetes
+Q060: Colesterol alto
+Q06306–Q06311: Doenças cardíacas
+Q068: AVC
+Q074: Asma
+Q079: Artrite/reumatismo
+Q084: Problemas crônicos de coluna
+Q088: DORT
+Q092: Depressão
+Q11006–Q11010: Outras doenças mentais
+Q11604–Q11607: Doenças pulmonares crônicas
+Q120: Câncer
+Q124: Insuficiência renal crônica
+ASPECTO 3: Limitações funcionais e impacto na vida
+J00801: Limitação por doença crônica
+Q028, Q058, Q067, Q073, Q078, Q083, Q087, Q091, Q109, Q115, Q119, Q12301, Q127: Grau de limitação das atividades por condição específica
+ASPECTO 4: Saúde mental
+N010–N018: Sintomas de depressão, ansiedade, sono, apetite, concentração, ideação suicida
+Q092–Q096: Diagnóstico, tratamento e acompanhamento de depressão
+Q11006–Q115: Diagnóstico e impacto de outras doenças mentais
+ASPECTO 5: Uso de serviços de saúde
+J014–J026: Atendimento nas duas últimas semanas
+J037–J044: Internações nos últimos 12 meses
+J046–J049: Atendimento de urgência/emergência no domicílio
+H001–H030: Atendimento médico, vínculo com profissional, continuidade do cuidado
+ASPECTO 6: Medicamentos e tratamentos
+J02901–J035: Prescrição, obtenção e pagamento de medicamentos
+Q00601–Q00602: Uso de medicamentos para hipertensão
+Q03403–Q03404: Uso de medicamentos para diabetes
+Q03803–Q03804: Uso de insulina
+Q09605–Q09607: Medicamentos para depressão
+Q11806–Q11808: Medicamentos para doenças pulmonares
+ASPECTO 7: Práticas integrativas e complementares
+J05301–J057: Uso de acupuntura, homeopatia, plantas medicinais, meditação, yoga, etc.
+Q018017, Q046020, Q08110, Q08610, Q09010: Recomendação ou uso dessas práticas por condição específica
+ASPECTO 8: Prevenção e exames
+Q01910–Q01913: Exames para hipertensão
+Q04707–Q04711: Exames para diabetes
+Q05301, Q05401: Exames de fundo de olho e pés
+K044–K047: Exames de vista e cirurgia de catarata
+R00101–R01701: Exames preventivos para câncer de colo do útero e mama
+ASPECTO 9: Saúde bucal
+U00101–U02501: Higiene bucal, uso de prótese, avaliação da saúde bucal, perda de dentes, acesso ao dentista
+ASPECTO 10: Saúde da mulher
+R00101–R031: Exames preventivos, menopausa, tratamento hormonal, planejamento familiar
+S065–S139: Atendimento pré-natal, parto, pós-parto, vacinação, exames, complicações
+ASPECTO 11: Saúde da criança
+L021–L040: Testes de triagem neonatal, vacinação, alimentação, acompanhamento
+ASPECTO 12: Saúde do homem
+Z001–Z014: Paternidade, acompanhamento do pré-natal, exames solicitados, participação no parto
+ASPECTO 13: Saúde sexual e reprodutiva
+Y001–Y008: Início da vida sexual, uso de preservativos, acesso a métodos de prevenção, orientação sexual
+ASPECTO 14: Violência e saúde
+V001–V039: Experiências de violência física, psicológica e sexual, impacto na saúde, busca por atendimento

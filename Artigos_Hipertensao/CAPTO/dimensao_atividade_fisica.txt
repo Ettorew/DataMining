@@ -1,0 +1,37 @@
+Dimensão: Atividade Física
+
+Código da Variável: P04701
+Quesito: O(A) Sr(a) conhece algum programa público de estímulo à prática de atividade física no seu município? 
+Tipo: 1
+Descrição: Sim
+
+Código da Variável: P04801
+Quesito: O(A) Sr(a) participa desse programa público de estímulo à prática de atividade física no seu município? 
+Tipo: 1
+Descrição: Sim
+
+Código da Variável: Q018013
+Quesito: Praticar atividade física regular
+Tipo: 1
+Descrição: Sim
+
+Código da Variável: Q046013
+Quesito: Praticar atividade física regular
+Tipo: 1
+Descrição: Sim
+
+Código da Variável: Q06209
+Quesito: Recomendação para praticar atividade física regular
+Tipo: 1
+Descrição: Sim
+
+Código da Variável: Q06507
+Quesito: Faz atualmente por causa da doença do coração: prática de atividade física regular?
+Tipo: 1
+Descrição: Sim
+
+Código da Variável: Q08107
+Quesito: Recomendação para praticar atividade física regularmente 
+Tipo: 1
+Descrição: Sim
+
