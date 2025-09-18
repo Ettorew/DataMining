@@ -38,4 +38,7 @@
 |                                  | Idade no diagnóstico de outras doenças crônicas | Q031, Q061, Q064, Q070, Q075, Q080, Q085, Q08901, Q09301, Q111, Q11701, Q12201, Q125                      |
 | Acesso e uso de testes genéticos | Testes neonatais                                | L021, L024, L027, L030                                                                                    |
 | Impacto da genética na saúde     | Limitações por hipertensão                      | Q028                                                                                                      |
-|                                  | Limitações por outras doenças crônicas          | Q058, Q067, Q073, Q078, Q083, Q087, Q091, Q109, Q115, Q119, Q12301, Q127                         
+|                                  | Limitações por outras doenças crônicas          | Q058, Q067, Q073, Q078, Q083, Q087, Q091, Q109, Q115, Q119, Q12301, Q127   
+
+![descrição](https://github.com/Ettorew/DataMining/blob/main/Artigos_Hipertensao/CAPTO/Conceitual_Hipertensao.drawio.png)
+
