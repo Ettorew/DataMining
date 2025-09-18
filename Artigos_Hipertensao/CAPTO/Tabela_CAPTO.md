@@ -28,6 +28,8 @@
 |                | Participação em programas públicos | P04701, P04801                 |
 |                | Barreiras geográficas              | P04902                         |
 
+**4. Dimensão Genética**
+
 | **Aspecto**                      | **Atributos generalizados**                     | **Atributos vinculados à PNS**                                                                            |
 | -------------------------------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | Histórico familiar de doenças    | Hipertensão                                     | Q00201                                                                                                    |
