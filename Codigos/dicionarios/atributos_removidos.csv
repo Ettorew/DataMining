@@ -1,0 +1,82 @@
+Q03001|Algum médico já lhe deu o diagnóstico de diabetes? 
+Q060|Algum médico já lhe deu o diagnóstico de colesterol alto?
+Q068|Algum médico já lhe deu o diagnóstico de AVC (Acidente Vascular Cerebral) ou derrame?
+Q074|Algum médico já lhe deu o diagnóstico de asma (ou bronquite asmática)? 
+Q079|Algum médico já lhe deu o diagnóstico de artrite ou reumatismo? 
+Q084|O(a) Sr(a) tem algum problema crônico de coluna, como dor crônica nas costas ou no pescoço, lombalgia, dor ciática, problemas nas vértebras ou disco? 
+Q088|Algum médico já lhe deu o diagnóstico de DORT? 
+Q11604|Algum médico já lhe deu o diagnóstico de alguma outra doença crônica no pulmão, tais como enfisema pulmonar, bronquite crônica ou DPOC (Doença Pulmonar Obstrutiva Crônica)?
+Q11605|Diagnóstico de enfisema pulmonar
+Q11606|Diagnóstico de bronquite crônica 
+Q11607|Diagnóstico de outro 
+Q120|Algum médico já lhe deu diagnóstico de câncer? 
+Q124|Algum médico já lhe deu o diagnóstico de insuficiência renal crônica? 
+Q128|Algum médico já lhe deu algum diagnóstico de outra doença crônica (física ou mental) ou doença de longa duração (de mais de 6 meses de duração)? 
+J00801|Alguma dessas doenças limita de alguma forma suas atividades habituais (trabalhar, ir à escola, brincar, afazeres domésticos, etc.)
+Q058|Em geral, em que grau o diabetes ou alguma complicação do diabetes limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? 
+Q073|Em geral, em que grau o derrame (ou AVC) limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? 
+Q078|Em geral, em que grau a asma limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)? 
+Q083|Em geral, em que grau a artrite ou reumatismo limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)? 
+Q087|Em geral, em que grau o problema na coluna limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)? 
+Q091|Em geral, em que grau o DORT limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? 
+Q109|Em geral, em que grau a depressão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos, etc.)? 
+Q115|Em geral, em que grau essa doença mental limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? 
+Q119|Em geral, em que grau a doença do pulmão limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? 
+Q12301|Em geral, seu tratamento, ou algum problema provocado pelo câncer, limita as suas atividades profissionais ou habituais (tais como trabalhar, realizar afazeres domésticos, etc.)? 
+Q127|Em geral, em que grau a insuficiência renal crônica limita as suas atividades habituais (tais como trabalhar, realizar afazeres domésticos etc.)? 
+J032|Algum dos medicamentos foi coberto por plano de saúde
+J034|Algum dos medicamentos foi obtido em serviço público de saúde
+J035| ___ pagou algum valor pelos medicamentos
+Q03403|Nas duas últimas semanas, por causa do diabetes, o(a) Sr(a) tomou os medicamentos orais para baixar o açúcar ?
+Q03404|Qual o principal motivo de ___ não ter tomado todos os medicamentos orais receitados para controlar o diabetes? 
+Q03803|Usou a insulina receitada na última prescrição? 
+Q03804|Qual o principal motivo de ___não ter usado a insulina para controlar o diabetes? 
+Q09605|Por causa da depressão Faz psicoterapia 
+Q09606|Por causa da depressão Toma medicamentos
+Q09607|Por causa da depressão Faz uso de acupuntura, plantas medicinais e fitoterapia, homeopatia, meditação, yoga, tai chi chuan, liang gong ou alguma outra prática integrativa e complementar 
+Q11806|Por causa da doença no pulmão Usa medicamentos (inaladores, aerossol ou comprimidos) 
+Q11807|Por causa da doença no pulmão Usa oxigênio 
+Q11808|Por causa da doença no pulmão Fisioterapia respiratória 
+Q01910|Foi pedido exame de sangue?
+Q01911|Foi pedido exame de urina?
+Q01913|Foi pedido teste de esforço?
+Q04707|Foi pedido Glicemia (açúcar no sangue) ?
+Q04708|Foi pedido Hemoglobina glicada?
+Q04709|Foi pedido curva glicêmica?
+Q04710|Foi pedido exame de urina?
+Q05301|Quando foi a última vez que realizaram um exame de vista ou fundo de olho em que dilataram sua pupila? 
+Q05401|Quando foi a última vez que um médico ou profissional de saúde examinou seus pés para verificar sensibilidade ou presença de feridas ou irritações? 
+K045|Algum médico já deu a ___ diagnóstico de catarata em uma ou em ambas as vistas
+K046|Houve indicação para realização de cirurgia nos olhos para retirar a catarata
+K047|___ fez a cirurgia
+R00101|Quando foi a última vez que a Sra fez exame preventivo para câncer de colo do útero
+R00601|Quanto tempo depois de ter realizado o último exame preventivo a Sra recebeu o resultado
+R01701|Quando foi a última vez que a Sra fez um exame de mamografia
+P046|Perto do seu domicílio, existe algum lugar público (praça, parque, rua fechada, praia) para fazer caminhada, realizar exercício ou praticar esporte? 
+P04701|O(A) Sr(a) conhece algum programa público de estímulo à prática de atividade física no seu município? 
+P04801|O(A) Sr(a) participa desse programa público de estímulo à prática de atividade física no seu município? 
+P04902|Qual o principal motivo de não participar? 
+Q092|Algum médico ou profissional de saúde mental (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de depressão?
+Q11006|Algum médico ou profissional de saúde (como psiquiatra ou psicólogo) já lhe deu o diagnóstico de outra doença mental, como transtorno de ansiedade, síndrome do pânico, esquizofrenia, transtorno bipolar, psicose ou TOC (Transtorno Obsessivo Compulsivo) etc? 
+Q11007|Diagnóstico de Esquizofrenia 
+Q11008|Diagnóstico de Transtorno bipolar 
+Q11009|Diagnóstico de TOC (Transtorno obsessivo compulsivo) 
+Q11010|Outro diagnóstico
+Q031|Que idade o(a) Sr(a) tinha no primeiro diagnóstico do diabetes? 
+Q061|Que idade o(a) Sr(a) tinha no primeiro diagnóstico de colesterol alto? 
+Q070|Que idade o(a) Sr(a) tinha no primeiro diagnóstico do derrame (ou AVC)? 
+Q075|Que idade o(a) Sr(a) tinha no primeiro diagnóstico de asma? 
+Q080|Que idade o(a) Sr(a) tinha no primeiro diagnóstico de artrite ou reumatismo?
+Q085|Que idade o(a) Sr(a) tinha quando começou o problema na coluna? 
+Q08901|Que idade o(a) Sr(a) tinha no primeiro diagnóstico de DORT?
+Q08901|Que idade o(a) Sr(a) tinha no primeiro diagnóstico de DORT?
+Q09301|Que idade o(a) Sr(a) tinha no primeiro diagnóstico de depressão? 
+Q111|Que idade o(a) Sr(a) tinha no primeiro diagnóstico de doença mental? 
+Q11701|Que idade o(a) Sr(a) tinha no primeiro diagnóstico dessa(s) doença(s) no pulmão? 
+Q12201|Que idade o(a) Sr(a) tinha no primeiro diagnóstico de doença mental? 
+Q125|Que idade o(a) Sr(a) tinha no primeiro diagnóstico de insuficiência renal crônica? 
+L021|Foi realizado o teste do pezinho? 
+L024|Foi realizado o teste de orelhinha? 
+L027|Foi realizado o teste do olhinho? 
+L030|Foi realizado o teste do coraçãozinho? 
+

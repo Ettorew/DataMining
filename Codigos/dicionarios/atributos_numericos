@@ -1,0 +1,17 @@
+P01101|Em quantos dias da semana o(a) Sr(a) costuma comer carne vermelha (boi, porco, cabrito, bode, ovelha etc.)? 
+P013|Em quantos dias da semana o(a) Sr(a) costuma comer frango/galinha? 
+P015|Em quantos dias da semana o(a) Sr(a) costuma comer peixe? 
+P023|Em quantos dias da semana o(a) Sr(a) costuma tomar leite? (de origem animal: vaca, cabra, búfala etc.) 
+P00901|Em quantos dias da semana, o(a) Sr(a) costuma comer pelo menos um tipo de verdura ou legume (sem contar batata, mandioca, cará ou inhame) como alface, tomate, couve, cenoura, chuchu, berinjela, abobrinha?
+P018|Em quantos dias da semana o(a) Sr(a) costuma comer frutas? 
+P019|Em geral, quantas vezes por dia o(a) Sr(a) come frutas? 
+P02001|Em quantos dias da semana o(a) Sr(a) costuma tomar suco de caixinha/lata ou refresco em pó ? 
+P02002|Em quantos dias da semana o(a) Sr(a) costuma tomar refrigerante? 
+P035|Quantos dias por semana o(a) Sr(a) costuma  (costumava)praticar exercício físico ou esporte?
+P03701|Em geral, no dia que o(a) Sr(a) pratica exercício ou esporte, quanto tempo em horas dura essa atividade? Horas 
+acima: 9 = ignorado
+P029|Em geral, no dia que o(a) Sr(a) bebe, quantas doses de bebida alcoólica o(a) Sr(a) consome?
+P03702|Em geral, no dia que o(a) Sr(a) pratica (praticava) exercício ou esporte, quanto tempo em minutos dura essa atividade?Minutos 
+Q003| Que idade o(a) Sr(a) tinha no primeiro diagnóstico de hipertensão arterial (pressão alta)
+Q064|Que idade o(a) Sr(a) tinha no primeiro diagnóstico da doença do coração? 
+acima: 99 = ignorado
