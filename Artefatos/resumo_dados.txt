@@ -205,8 +205,8 @@ top           1
 freq      14190
 
 Coluna: P02401
-count     23851
-unique        4
+count     16997
+unique        3
 top           2
 freq      12788
 
@@ -253,10 +253,10 @@ top           1
 freq      15177
 
 Coluna: P01001
-count     23851
-unique        4
-top          NA
-freq      10391
+count     13460
+unique        3
+top           1
+freq       8748
 
 Coluna: P00614
 count     23851
@@ -319,16 +319,16 @@ top           2
 freq      22869
 
 Coluna: P02101
-count     23851
-unique        4
-top          NA
-freq      17280
+count     6571
+unique       3
+top          2
+freq      6092
 
 Coluna: P02102
-count     23851
-unique        4
-top          NA
-freq      15785
+count     8066
+unique       3
+top          2
+freq      7190
 
 Coluna: P02501
 count     23851
@@ -349,22 +349,22 @@ top           1
 freq      16692
 
 Coluna: P03301
-count     23851
-unique        6
-top          NA
-freq      16692
+count     7159
+unique       5
+top          1
+freq      6904
 
 Coluna: P03302
-count     23851
-unique        6
-top          NA
-freq      16692
+count     7159
+unique       5
+top          1
+freq      6516
 
 Coluna: P03303
-count     23851
-unique        4
-top          NA
-freq      16692
+count     7159
+unique       3
+top          1
+freq      5899
 
 Coluna: P034
 count     23851
@@ -373,10 +373,10 @@ top           2
 freq      15975
 
 Coluna: P036
-count     23851
-unique       18
-top          NA
-freq      16190
+count     7661
+unique      17
+top          1
+freq      4392
 
 Coluna: Q00201
 count     23851
@@ -391,74 +391,74 @@ top           2
 freq      20836
 
 Coluna: Q06307
-count     23851
-unique        3
-top          NA
-freq      20836
+count     3015
+unique       2
+top          2
+freq      2009
 
 Coluna: Q06308
-count     23851
-unique        3
-top          NA
-freq      20836
+count     3015
+unique       2
+top          2
+freq      2508
 
 Coluna: Q06309
-count     23851
-unique        3
-top          NA
-freq      20836
+count     3015
+unique       2
+top          2
+freq      2299
 
 Coluna: Q06310
-count     23851
-unique        3
-top          NA
-freq      20836
+count     3015
+unique       2
+top          2
+freq      1746
 
 Coluna: Q06311
-count     23851
-unique        3
-top          NA
-freq      20836
+count     3015
+unique       2
+top          2
+freq      2554
 
 Coluna: Q028
-count     23851
-unique        6
+count     22574
+unique        5
 top           1
 freq      16331
 
 Coluna: Q067
-count     23851
-unique        6
-top          NA
-freq      20836
+count     3015
+unique       5
+top          1
+freq      1357
 
 Coluna: J02901
-count     23851
-unique        3
-top          NA
-freq      17962
+count     5889
+unique       2
+top          1
+freq      3776
 
 Coluna: Q00601
-count     23851
-unique        4
+count     21451
+unique        3
 top           1
 freq      19594
 
 Coluna: Q00602
-count     23851
-unique        9
-top          NA
-freq      21994
+count     1857
+unique       8
+top          7
+freq       786
 
 Coluna: Q01912
-count     23851
-unique        3
+count     19128
+unique        2
 top           1
 freq      11975
 
 Coluna: Q04711
-count     23851
-unique        3
-top          NA
-freq      19647
+count     4204
+unique       2
+top          1
+freq      3583
 
