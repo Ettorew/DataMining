@@ -1,8 +1,10 @@
 ===== RESUMO ESTATÍSTICO =====
+Total de Linhas no DataFrame: 23851
 
 ### Colunas Numéricas ###
 
 Coluna: P01101
+Valores Nulos: 0 (0.00%)
 count    23851.000000
 mean         3.092868
 std          2.087532
@@ -13,6 +15,7 @@ min          0.000000
 max          7.000000
 
 Coluna: P013
+Valores Nulos: 0 (0.00%)
 count    23851.000000
 mean         2.969687
 std          1.819751
@@ -23,6 +26,7 @@ min          0.000000
 max          7.000000
 
 Coluna: P015
+Valores Nulos: 0 (0.00%)
 count    23851.000000
 mean         1.142761
 std          1.513668
@@ -33,6 +37,7 @@ min          0.000000
 max          7.000000
 
 Coluna: P023
+Valores Nulos: 0 (0.00%)
 count    23851.000000
 mean         3.896021
 std          3.063207
@@ -43,6 +48,7 @@ min          0.000000
 max          7.000000
 
 Coluna: P00901
+Valores Nulos: 0 (0.00%)
 count    23851.000000
 mean         4.659134
 std          2.432939
@@ -53,6 +59,7 @@ min          0.000000
 max          7.000000
 
 Coluna: P018
+Valores Nulos: 0 (0.00%)
 count    23851.000000
 mean         4.372144
 std          2.503606
@@ -63,6 +70,7 @@ min          0.000000
 max          7.000000
 
 Coluna: P019
+Valores Nulos: 11635 (48.78%) - vazios - P018
 count    12216.000000
 mean         1.608874
 std          0.691874
@@ -73,6 +81,7 @@ min          1.000000
 max          3.000000
 
 Coluna: P02001
+Valores Nulos: 0 (0.00%)
 count    23851.000000
 mean         0.971196
 std          1.949953
@@ -83,6 +92,7 @@ min          0.000000
 max          7.000000
 
 Coluna: P02002
+Valores Nulos: 0 (0.00%)
 count    23851.000000
 mean         0.805249
 std          1.554278
@@ -93,6 +103,7 @@ min          0.000000
 max          7.000000
 
 Coluna: P029
+Valores Nulos: 16692 (69.98%) - vazios - P027 - drop
 count    7159.000000
 mean        4.077664
 std         4.129315
@@ -103,6 +114,7 @@ min         1.000000
 max        50.000000
 
 Coluna: P035
+Valores Nulos: 15975 (66.98%) - vazios - P034
 count    7876.000000
 mean        3.593068
 std         1.924307
@@ -113,6 +125,7 @@ min         0.000000
 max         7.000000
 
 Coluna: P03701
+Valores Nulos: 16190 (67.88%) - vazios - P034
 count    7661.000000
 mean        0.806944
 std         0.759747
@@ -123,6 +136,7 @@ min         0.000000
 max        15.000000
 
 Coluna: P03702
+Valores Nulos: 16190 (67.88%) - vazios - P034
 count    7661.000000
 mean       15.573815
 std        17.393464
@@ -133,6 +147,7 @@ min         0.000000
 max        59.000000
 
 Coluna: V0001
+Valores Nulos: 0 (0.00%)
 count    23851.000000
 mean        30.575406
 std         11.167693
@@ -143,6 +158,7 @@ min         11.000000
 max         53.000000
 
 Coluna: V0031
+Valores Nulos: 0 (0.00%)
 count    23851.000000
 mean         2.652342
 std          1.382660
@@ -153,6 +169,7 @@ min          1.000000
 max          4.000000
 
 Coluna: Q003
+Valores Nulos: 1277 (5.35%) -
 count    22574.000000
 mean        46.310579
 std         15.012323
@@ -163,6 +180,7 @@ min          0.000000
 max         98.000000
 
 Coluna: Q064
+Valores Nulos: 20836 (87.36%) - vazios - Q06306
 count    3015.000000
 mean       51.996020
 std        17.263118
@@ -175,290 +193,337 @@ max        96.000000
 ### Colunas Categóricas ###
 
 Coluna: P00601
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           1
 freq      21410
 
 Coluna: P00602
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           2
 freq      14448
 
 Coluna: P00604
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           1
 freq      21673
 
 Coluna: P00605
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           2
 freq      14713
 
 Coluna: P00612
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           1
 freq      14190
 
 Coluna: P02401
-count     16997
+Valores Nulos: 6854 (28.74%) - vazios - P023
 unique        3
 top           2
 freq      12788
 
 Coluna: P00613
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           2
 freq      21179
 
 Coluna: P00603
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           1
 freq      18503
 
 Coluna: P00607
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           2
 freq      12513
 
 Coluna: P00608
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           2
 freq      14313
 
 Coluna: P00609
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           1
 freq      13854
 
 Coluna: P00610
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           2
 freq      15595
 
 Coluna: P00611
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           1
 freq      15177
 
 Coluna: P01001
+Valores Nulos: 10391 (43.57%) - vazios - P00901
 count     13460
 unique        3
 top           1
 freq       8748
 
 Coluna: P00614
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           2
 freq      18525
 
 Coluna: P00615
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           2
 freq      19434
 
 Coluna: P00616
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           2
 freq      21456
 
 Coluna: P00617
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           2
 freq      18807
 
 Coluna: P00618
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           2
 freq      19433
 
 Coluna: P00619
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           2
 freq      20667
 
 Coluna: P00620
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           2
 freq      19028
 
 Coluna: P00621
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           2
 freq      17872
 
 Coluna: P00622
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           2
 freq      15001
 
 Coluna: P00623
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           2
 freq      22869
 
 Coluna: P02101
+Valores Nulos: 17280 (72.45%) - vazios - P02001
 count     6571
 unique       3
 top          2
 freq      6092
 
 Coluna: P02102
+Valores Nulos: 15785 (66.18%) - vazios - P02002
 count     8066
 unique       3
 top          2
 freq      7190
 
 Coluna: P02501
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        8
 top           0
 freq      13212
 
 Coluna: P02602
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        8
 top           0
 freq      20573
 
 Coluna: P027
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        3
 top           1
 freq      16692
 
 Coluna: P03301
+Valores Nulos: 16692 (69.98%) - vazios - P027
 count     7159
 unique       5
 top          1
 freq      6904
 
 Coluna: P03302
+Valores Nulos: 16692 (69.98%) - vazios - P027
 count     7159
 unique       5
 top          1
 freq      6516
 
 Coluna: P03303
+Valores Nulos: 16692 (69.98%) - vazios - P027
 count     7159
 unique       3
 top          1
 freq      5899
 
 Coluna: P034
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           2
 freq      15975
 
 Coluna: P036
+Valores Nulos: 16190 (67.88%) - vazios - P034
 count     7661
 unique      17
 top          1
 freq      4392
 
 Coluna: Q00201
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        1
 top           1
 freq      23851
 
 Coluna: Q06306
+Valores Nulos: 0 (0.00%)
 count     23851
 unique        2
 top           2
 freq      20836
 
 Coluna: Q06307
+Valores Nulos: 20836 (87.36%) - vazios - Q06306
 count     3015
 unique       2
 top          2
 freq      2009
 
 Coluna: Q06308
+Valores Nulos: 20836 (87.36%) - vazios - Q06306
 count     3015
 unique       2
 top          2
 freq      2508
 
 Coluna: Q06309
+Valores Nulos: 20836 (87.36%) - vazios - Q06306
 count     3015
 unique       2
 top          2
 freq      2299
 
 Coluna: Q06310
+Valores Nulos: 20836 (87.36%) - vazios - Q06306
 count     3015
 unique       2
 top          2
 freq      1746
 
 Coluna: Q06311
+Valores Nulos: 20836 (87.36%) - vazios - Q06306
 count     3015
 unique       2
 top          2
 freq      2554
 
 Coluna: Q028
+Valores Nulos: 1277 (5.35%) - ausentes
 count     22574
 unique        5
 top           1
 freq      16331
 
 Coluna: Q067
+Valores Nulos: 20836 (87.36%) - vazios - Q06306 - drop
 count     3015
 unique       5
 top          1
 freq      1357
 
-Coluna: J02901
-count     5889
-unique       2
-top          1
-freq      3776
+Coluna: Q00401
+Valores Nulos: 1277 (5.35%) - ausentes
+count     22574
+unique        3
+top           1
+freq      13122
+
+Coluna: Q00502
+Valores Nulos: 14399 (60.37%) - vazios e ausentes - Q00401
+count     9452
+unique      11
+top          4
+freq      3626
+
+Coluna: Q00503
+Valores Nulos: 1277 (5.35%) - ausentes
+count     22574
+unique        2
+top           1
+freq      21451
 
 Coluna: Q00601
+Valores Nulos: 2400 (10.06%) - vazios e ausentes - Q00503
 count     21451
 unique        3
 top           1
 freq      19594
 
 Coluna: Q00602
+Valores Nulos: 21994 (92.21%) - vazios e ausentes - Q00601
 count     1857
 unique       8
 top          7
 freq       786
-
-Coluna: Q01912
-count     19128
-unique        2
-top           1
-freq      11975
-
-Coluna: Q04711
-count     4204
-unique       2
-top          1
-freq      3583
 
