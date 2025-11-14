@@ -1,0 +1,2 @@
+somar horas + minutos, multiplicar por dias por semana - minutos_atv_fis_semanal
+frequencia semanal, lidar com outliers com faixas de frequencia
