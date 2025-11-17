@@ -1,0 +1,23 @@
+codigo|descricao|tipo
+P01101|Em quantos dias da semana o(a) Sr(a) costuma comer carne vermelha (boi, porco, cabrito, bode, ovelha etc.)? |int64
+P013|Em quantos dias da semana o(a) Sr(a) costuma comer frango/galinha? |int64
+P015|Em quantos dias da semana o(a) Sr(a) costuma comer peixe? |int64
+P023|Em quantos dias da semana o(a) Sr(a) costuma tomar leite? (de origem animal: vaca, cabra, búfala etc.) |int64
+P00901|Em quantos dias da semana, o(a) Sr(a) costuma comer pelo menos um tipo de verdura ou legume (sem contar batata, mandioca, cará ou inhame) como alface, tomate, couve, cenoura, chuchu, berinjela, abobrinha? |int64
+P018|Em quantos dias da semana o(a) Sr(a) costuma comer frutas? |int64
+P02501|Em quantos dias da semana o(a) Sr(a) costuma comer alimentos doces como biscoito/bolacha recheado, chocolate, gelatina, balas e outros?|int64
+P02602|Em quantos dias da semana o(a) Sr(a) costuma substituir a refeição do almoço por lanches rápidos como sanduíches, salgados, pizza, cachorro quente, etc? |int64
+P02601|Considerando a comida preparada na hora e os alimentos industrializados, o(a) Sr(a) acha que o seu consumo de sal é:|int64
+P027|Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?|int64
+P050|Atualmente, o(a) Sr(a) fuma algum produto do tabaco? |int64
+Q00201|Algum médico já lhe deu o diagnóstico de hipertensão arterial (pressão alta)? |int64
+Q06306|Algum médico já lhe deu o diagnóstico de uma doença do coração, tal como infarto, angina, insuficiência cardíaca ou outra?|int64
+Q060|Algum médico já lhe deu o diagnóstico de colesterol alto? |int64
+N001|Em geral, como o(a) Sr(a) avalia a sua saúde|int64
+N010|Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas no sono, como dificuldade para adormecer, acordar frequentemente à noite ou dormir mais do que de costume?|int64
+N011|Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas por não se sentir descansado(a) e disposto(a) durante o dia, sentindo-se cansado(a), sem ter energia? |int64
+C008|Idade do morador na data de referência|int64
+C006|Sexo|int64
+bebidas_acucar_dias_semana||float64
+atividade_fisica_categoria||int64
+IMC_Categoria||int64

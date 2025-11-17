@@ -9,6 +9,7 @@ P02001|Em quantos dias da semana o(a) Sr(a) costuma tomar suco de caixinha/lata 
 P02002|Em quantos dias da semana o(a) Sr(a) costuma tomar refrigerante? |int64
 P02501|Em quantos dias da semana o(a) Sr(a) costuma comer alimentos doces como biscoito/bolacha recheado, chocolate, gelatina, balas e outros?|int64
 P02602|Em quantos dias da semana o(a) Sr(a) costuma substituir a refeição do almoço por lanches rápidos como sanduíches, salgados, pizza, cachorro quente, etc? |int64
+P02601|Considerando a comida preparada na hora e os alimentos industrializados, o(a) Sr(a) acha que o seu consumo de sal é:|category
 P027|Com que frequência o(a) Sr(a) costuma consumir alguma bebida alcoólica?|category
 P050|Atualmente, o(a) Sr(a) fuma algum produto do tabaco? |category
 Q00201|Algum médico já lhe deu o diagnóstico de hipertensão arterial (pressão alta)? |category
@@ -20,12 +21,3 @@ N010|Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas no
 N011|Nas duas últimas semanas, com que frequência o(a) Sr(a) teve problemas por não se sentir descansado(a) e disposto(a) durante o dia, sentindo-se cansado(a), sem ter energia? |category
 C008|Idade do morador na data de referência|int64
 C006|Sexo|int64
-consumo_semanal_frutas||float64 
-consumo_semanal_verdura_legume||float64 
-infarto||category
-angina||category
-insuficiencia_cardiaca ||category
-arritmia ||category
-outra_doenca_cardiaca||category
-minutos_atv_fis_semana||float64 
-IMC||float64 
